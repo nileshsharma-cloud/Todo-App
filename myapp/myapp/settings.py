@@ -26,6 +26,7 @@ SECRET_KEY = 'cmlz*!xkk=87bnvwh3^+@f@&%v5im$_%qz3_j@rtdxioj7^%kl'
 DEBUG = True
 
 # ALLOWED_HOSTS = ['192.168.0.106', '127.0.0.1']
+# Used to allow ports
 ALLOWED_HOSTS = []
 
 # Application definition
